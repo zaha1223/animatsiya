@@ -19,8 +19,8 @@ body {
 }
 .bubbles span {
   position: relative;
-  width: 30px;
-  height: 30px;
+  width: 15px;
+  height: 15px;
   margin: 0 4px;
   background-color: #4fc3dc;
   border-radius: 50%;
